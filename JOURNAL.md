@@ -10,7 +10,7 @@ However, once summer started, I couldn't decide what I wanted to build. I consid
 If you haven't already noticed, this is by no means a final design, before I add the other parts of the BOM to the CAD, I want to first finalize all the parts I plan on purchasing so ensure compatibility so I'm not wasting my time and money. I was able to find these open source designs for the 450 mm frame I plan on purchasing as well as the SpeedyBee, and now simply need to design a plate adapter for the SpeedyBee and later 3d print it when the all parts are finalized and ordered. However, once the parts are finalized I can truly begin on the full design process.
 
 # BOM (As of 7/13/26)
-### 1. Structure & Propulsion
+### 1. Structure + Propulsion
 
 | Item Name | Qty. | Price (total) USD | Item Link |
 | :--- | :---: | :---: | :---: |
@@ -19,7 +19,7 @@ If you haven't already noticed, this is by no means a final design, before I add
 | SoloGood 1045 (10x4.5) Propellers. 16 Pieces(8CW, 8CCW) Red & Black 10 inch FPV Props for F450 F550 S550 S500 FPV Quadcopter Multirotor | 1 | $13.99 | [Link](https://www.amazon.com/dp/B091KGR9Z6) |
 | **Subtotal:** | | **$82.97** | |
 
-### 2. Avionics & Control (The "Brain")
+### 2. Brain/Electronics
 
 | Item Name | Qty. | Price (total) USD | Item Link |
 | :--- | :---: | :---: | :---: |
@@ -28,16 +28,17 @@ If you haven't already noticed, this is by no means a final design, before I add
 | FLYSKY FS-i6X 10CH 2.4GHz RC Transmitter Controller with FS-iA6B Receiver Upgrade Cable for RC Boat Racing Drone (Mode_2) | 1 | $58.48 | [Link](https://www.amazon.com/dp/B07Z8VCB45) |
 | **Subtotal:** | | **$181.46** | |
 
-### 3. Companion Computer & Precision Landing (Custom Logic)
+### 3. Pi + Precision Landing
 
 | Item Name | Qty. | Price (total) USD | Item Link |
 | :--- | :---: | :---: | :---: |
 | Raspberry Pi 4 2GB Model B | 1 | $55.00 | [Link](https://www.canakit.com/raspberry-pi-4-2gb.html?cid=usd&src=raspberrypi) |
+| SanDisk 32GB Ultra® microSDHC 120MB/s A1 Class 10 UHS-I | 1 | 22.59 | https://www.amazon.com/dp/B08L5HMJVW |
 | Arducam for Raspberry Pi Camera Module 60fps Global Shutter 1.58MP IMX296 Camera with M12 Lens Equipped with 15-22pin FPC Flexible Cable for Raspberry Pi 5, 3, 4 A/B | 1 | $64.99 | [Link](https://www.amazon.com/dp/B0C3VGMTRH) |
 | 3pcs 15 Pin 30cm 50cm 100cm FFC Ribbon Flexible Flat Cable for Camera Pi Camera Cable Long Extension Flexible Ribbon Cable | 1 | $8.16 | [Link](https://www.amazon.com/dp/B07DNYM8KC) |
 | **Subtotal:** | | **$128.15** | |
 
-### 4. Power & Wiring Infrastructure
+### 4. Power/Wiring
 
 | Item Name | Qty. | Price (total) USD | Item Link |
 | :--- | :---: | :---: | :---: |
