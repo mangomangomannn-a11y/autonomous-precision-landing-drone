@@ -33,7 +33,7 @@ If you haven't already noticed, this is by no means a final design, before I add
 | Item Name | Qty. | Price (total) USD | Item Link |
 | :--- | :---: | :---: | :---: |
 | Raspberry Pi 4 2GB Model B | 1 | $55.00 | [Link](https://www.canakit.com/raspberry-pi-4-2gb.html?cid=usd&src=raspberrypi) |
-| SanDisk 32GB Ultra® microSDHC 120MB/s A1 Class 10 UHS-I | 1 | 22.59 | https://www.amazon.com/dp/B08L5HMJVW |
+| SanDisk 32GB Ultra® microSDHC 120MB/s A1 Class 10 UHS-I | 1 | 22.59 | [Link](https://www.amazon.com/dp/B08L5HMJVW) |
 | Arducam for Raspberry Pi Camera Module 60fps Global Shutter 1.58MP IMX296 Camera with M12 Lens Equipped with 15-22pin FPC Flexible Cable for Raspberry Pi 5, 3, 4 A/B | 1 | $64.99 | [Link](https://www.amazon.com/dp/B0C3VGMTRH) |
 | 3pcs 15 Pin 30cm 50cm 100cm FFC Ribbon Flexible Flat Cable for Camera Pi Camera Cable Long Extension Flexible Ribbon Cable | 1 | $8.16 | [Link](https://www.amazon.com/dp/B07DNYM8KC) |
 | **Subtotal:** | | **$128.15** | |
