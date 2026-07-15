@@ -86,5 +86,11 @@ If I get the T8L, I can get an XR1 receiver weighing in at only 2 grams, and it 
 | 18650 3200mAh 3.7V Battery (2pcs) for TX16S / Boxer / TX12/ Pocket / MT12 Radios | 1 | $11.99 | [Link](https://radiomasterrc.com/products/18650-3200mah-3-7v-battery-2pcs-for-tx16s-boxer-tx12-mt12-radios) |
 | **Total:** | | **$58.97** | |
 
+# 7/15/2026
+## Day 5: More advice, switching parts, designing the adaptor plate - 5 Hours
 
-yes i will design the plate today, yes i will add that to the journal today, yes i will logs the hours for today, so far ive done 2 hrs, Yes a 130 c rated battery is a bit much and will try to downscale so im not paying too much, yes i will write abt the lengths of the ribbon wire and why its a pack of 3, and yes i will look for 1 step down motor instead of 3, most amazon links come in 3's tho...
+
+
+
+
+yes i will design the plate today, yes i will add that to the journal today, yes i will logs the hours for today, so far ive done 2 hrs, Yes a 130 c rated battery is a bit much and will try to downscale so im not paying too much, and with that I will wait for BOTH replies on reddit, editthe bom google sheet an dimport it here updated with a diff compass if works and a diff battery if works.
