@@ -48,7 +48,7 @@ If you haven't already noticed, this is by no means a final design, before I add
 
 I have decided on these parts for my BOM as of now, they are most likely subject to change as I am currently seeking feedback from other communities such as Reddit and HackClub as well as researching forums regarding each part. 
 
-# 7/14/26 - 3
+# 7/14/26 - 3 Hours
 I have now received some suggestions on Reddit with multiple users suggesting I go to a 4s battery rather than a 3s especially for the load of what I'm carrying as well as the motors. I found a 4s battery that is the same price as my current 3s battery drops from a capacity of 3000mAh to 1550 mAh yielding roughly just over half the flight time than the 3s. If I want a 4s with ~3000mAh, it entails spending an extra ~$35 in a more expensive battery which I'm not particularly fond of spending unless mandatory, as well as buying a different set of motors suitable for a 4s instead, which could easily run upwards of an extra $100 spent and wasted. I don't want to buy all the parts and see that the 3s isn't efficient as that is a far more expensive mistake where I would have a net loss of upwards of $100 if the 3s doesn't work. I'm not sure what to do in this situation and am asking more questions from other communities.
 
 Its been a few hours and the guy on Reddit who suggested I get a 4s battery came up with a compromise: I should purchase a different motor that is compatible with 2s-6s batteries and remain with the 3s battery. If I test the 3s and am not happy with its performance, then I would buy a 4s, its a nice medium where I avoid wasting ~$100, and instead pay roughly $20 more to avoid a far more expensive mistake. Worst case scenario being, if the 3s battery isn't sufficient, then I would have to pay an extra ~$40 on a 4s battery. 
@@ -59,7 +59,7 @@ Its been a few hours and the guy on Reddit who suggested I get a 4s battery came
 
 Another user suggested I get a Radiomaster pocket ELRS however, this means I would have to pay an extra $20-30 and on top of that have to buy a seperate receiver since the one I already had in mind comes with one. While it's true the ELRS is a quality of life upgrade and most likely safer, I don't want to pay this much extra, I'm already relatively over my initially planned budget and don't want to spend that much more. I told the user this and I'll check back later with how he replied and my course of action based off the response (I'm probably gonna stick with my FA-i6x)
 
-Continuation: He replied 
+Its been a couple hours and another dude suggested the RadioMaster T8L, this is definitely worth taking a look at, and certainly takes priority over the Radiomaster Pocket ELRS as its modern tech with a much cheaper price tag.
 
 
 
