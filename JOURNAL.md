@@ -52,6 +52,7 @@ I have decided on these parts for my BOM as of now, they are most likely subject
 
 # 7/14/26
 ## Day 4: Advice and sanity checking my selected parts - 4 Hours
+### Battery and motor dilemma:
 I have received some advice from users on reddits with a couple suggesting that I switch to a 4s battery, however, the only option that is within my budget is a 4s with 1550mAh rather than the current 3s' 3000mAh. This would cause data collection to be long and tedious with a smaller flight time per battery.
 
 If I wanted a 4s battery with similar capacity as the 3s, I would be increasing my budget even more, however, if I don't and I im not happy with the 3s' performance, then I'd lose much more than if I had made the safer, more expensive choice.
@@ -62,15 +63,28 @@ With all this is mind I've decided to compromise with swapping my current motors
 | :--- | :---: | :---: | :---: |
 | DYS X2812 900KV Brushless Motors for 7-8 Inch FPV Drone Frame (4PCS) | 1 | $55.98 | [Link](https://www.amazon.com/X2812-900KV-Brushless-Quadcopter-Multirotor/dp/B0G3F2GZSR) |
 
+### Radio debate:
 Another user suggested I get a Radiomaster pocket ELRS, however, this is quite over-budget with the main upside being the modern ELRS technology rather than the FS-i6X's older technology. 
 
-Not all hope on ELRS was lost yet, as somebody suggested a T8L Radiomaster controller, which I considered for a good 15 minutes before realizing, his main argument for the T8L was how it has room for growth, however, if I were to add more to this project in the future, I'd be operating on a different budget. 
+I looked into it and I personally think its an unnecessary upgrade if the primary benefit if only having ELRS for a much greater price tag
 
-Both ELRS' are unnecessary upgrades for the current design I'm following as the FS-i6X will work just fine for a lower price tag.
+Not all hope on ELRS was lost yet, as a different user suggested a T8L Radiomaster controller, which I considered for a good 15 minutes and overall assumed that the screen on the FS-i6x was a focal selling point along with its outer antenna providing a better signal.
 
 <img width="547" height="267" alt="image" src="https://github.com/user-attachments/assets/bac951ea-79f7-42a0-a45b-57789f5bb3dd" />
 
-And arguably most importantly, the T8L (on the left) uses an internal antenna which is good for indoor controlled flight of smaller drones, but its lack of an outer/exposed antenna could cause signal issues if blocked by a tree or leaves and such which is a problem the FS-i6X (on the right) visibly doesn't have (it has an exposed antenna).
+(T8L - $35 for controller, ~$60 for all parts | FS-i6x - ~$59 for controller + receiver)
+
+
+I referred back to the user and was informed that he never had an issue with signal and precisely the reason he suggests ELRS, but it didn't quite sway my decision entirely until I considered the weight of the receiver that the FS-i6x comes with. It would be another 15g on my already heavy drone which is operating on an already possibly underpowered 3s.
+
+If I get the T8L, I can get an XR1 receiver weighing in at only 2 grams, and it is essentially the same price total to get the T8L, receiver, and batteries, as just getting the FS-i6x. In the grand scheme of things, it's an upgrade that I should and will buy now.
+
+| Item Name | Qty. | Price (total) USD | Item Link |
+| :--- | :---: | :---: | :---: |
+| T8L Radio Controller (M2) | 1 | $34.99 | [Link](https://radiomasterrc.com/products/t8l-radio-controller?variant=47089026465984) |
+| XR1 Nano Multi-Frequency ExpressLRS Receiver (2.4 GHz) | 1 | $11.99 | [Link](https://radiomasterrc.com/products/xr1-nano-multi-frequency-expresslrs-receiver?variant=46486320480448) |
+| 18650 3200mAh 3.7V Battery (2pcs) for TX16S / Boxer / TX12/ Pocket / MT12 Radios | 1 | $11.99 | [Link](https://radiomasterrc.com/products/18650-3200mah-3-7v-battery-2pcs-for-tx16s-boxer-tx12-mt12-radios) |
+| **Total:** | | **$58.97** | |
 
 
 yes i will design the plate today, yes i will add that to the journal today, yes i will logs the hours for today, so far ive done 2 hrs, Yes a 130 c rated battery is a bit much and will try to downscale so im not paying too much, yes i will write abt the lengths of the ribbon wire and why its a pack of 3, and yes i will look for 1 step down motor instead of 3, most amazon links come in 3's tho...
