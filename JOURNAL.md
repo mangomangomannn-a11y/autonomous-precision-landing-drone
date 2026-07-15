@@ -88,6 +88,16 @@ If I get the T8L, I can get an XR1 receiver weighing in at only 2 grams, and it 
 
 # 7/15/2026
 ## Day 5: More advice, switching parts, designing the adaptor plate - 5 Hours
+The same user who suggested I get the other motor also mentioned a cheaper, yet more modern and higher performance compass:
+
+| Item Name | Qty. | Price (total) USD | Item Link |
+| :--- | :---: | :---: | :---: |
+| HGLRC M100 Pro GPS / QMC5883L Compass | 1 | $20.99 | [Link](https://www.amazon.com/dp/B0DPH8FV7K) |
+
+It's a compatible compass that functions the same as the previous DeeGoo compass, but costs $8 less, weighs ~10 grams less, regularly gets 30+ satelites, and has almost twice the range.
+
+Yeah, this was a no-brainer I'm glad he told me about this compass.
+
 
 
 
