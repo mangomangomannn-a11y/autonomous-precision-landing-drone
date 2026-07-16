@@ -12,6 +12,6 @@ Item Name,Qty.,Price (total) USD,Item Link,Notes
 "Arducam for Raspberry Pi Camera Module 60fps Global Shutter 1.58MP IMX296 Camera with M12 Lens Equipped with 15-22pin FPC Flexible Cable for Raspberry Pi 5, 3, 4 A/B",1,64.99,https://www.amazon.com/dp/B0C3VGMTRH,
 "Fermerry 28 AWG Stranded Wire Spool 5ft Each 6 Colors Flexible 28 Gauge Silicone Hook up Wire Kit Electrical Tinned Copper Wire",1,8.29,https://www.amazon.com/dp/B089CR4SDM,
 "18 Gauge Electrical Wire with Heat Shrink Tubing, 18 Awg Red and Black Tinned Copper Electric Stranded Wire 0.82mm² for Automotive House LED Lamp, Flexible PVC High Temp(10M/32.8FT)",1,11.99,https://www.amazon.com/dp/B0G4JWWVH7,
-"3pcs 15 Pin 30cm 50cm 100cm FFC Ribbon Flexible Flat Cable for Camera Pi Camera Cable Long Extension Flexible Ribbon Cable",1,8.16,https://www.amazon.com/dp/B07DNYM8KC,3 pcs is simply because it offers 3 different sizes, I couldn't find a reasonably priced single cable
-"3pcs 24V/12V to 5V DC-DC Step Down Module 5A USB Power Converter for Arduino Raspberry Pi DIY Projects",1,9.99,https://www.amazon.com/dp/B0FXWLB3XX,Same as the cables, can't find a reasonably priced 1 pc
+"3pcs 15 Pin 30cm 50cm 100cm FFC Ribbon Flexible Flat Cable for Camera Pi Camera Cable Long Extension Flexible Ribbon Cable",1,8.16,https://www.amazon.com/dp/B07DNYM8KC","3 pcs is simply because it offers 3 different sizes, I couldn't find a reasonably priced single cable"
+"3pcs 24V/12V to 5V DC-DC Step Down Module 5A USB Power Converter for Arduino Raspberry Pi DIY Projects",1,9.99,https://www.amazon.com/dp/B0FXWLB3XX,"Same as the cables, can't find a reasonably priced 1 pc"
 "Total Price (USD):",,516.42,,
