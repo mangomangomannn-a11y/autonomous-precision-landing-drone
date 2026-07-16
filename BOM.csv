@@ -1,17 +1,17 @@
 Item Name,Qty.,Price (total) USD,Item Link,Notes
 "HAWK'S WORK F450 Drone Frame, 450mm Wheelbase Quadcopter Frame Kit with Landing Skid Gear (Pre-soldered)",1,28.99,https://www.amazon.com/dp/B09YQ4TM88,
-SpeedyBee F405 V5 OX32 55A 30x30 Model Aircraft FC&ESC Stack,1,93.99,https://www.speedybee.com/speedybee-f405-v5-55a-stack/,"Specifically chose the deluxe option because it includes a voltage tester and practice soldering board. As an inexperienced pad solderer, the 10 dollar difference outweighs the possibility of a more expensive mistake."
+"SpeedyBee F405 V5 OX32 55A 30x30 Model Aircraft FC&ESC Stack",1,93.99,https://www.speedybee.com/speedybee-f405-v5-55a-stack/,"Specifically chose the deluxe option because it includes a voltage tester and practice soldering board. As an inexperienced pad solderer, the 10 dollar difference outweighs the possibility of a more expensive mistake."
 "Deegoo-FPV GPS Compass Module+ NEO-M8N+ GPS BDS Module Precision APM Drone Control, GPS Receiver FPV Flight Control Pixhawk Navigation Module for APM PIX PX4, Compatible with APM Port I2C MWC",1,28.99,https://www.amazon.com/dp/B08NY9JSZ3,
-Readytosky 2212 920KV Brushless Motors CW CCW for F330 F450 F550 S500 S550 X525 DJI Phantom Quadcopter(4PCS),1,39.99,https://www.amazon.com/dp/B075DD16LK,
+"Readytosky 2212 920KV Brushless Motors CW CCW for F330 F450 F550 S500 S550 X525 DJI Phantom Quadcopter(4PCS)",1,39.99,https://www.amazon.com/dp/B075DD16LK,
 "SoloGood 1045 (10x4.5) Propellers. 16 Pieces(8CW, 8CCW) Red & Black 10 inch FPV Props for F450 F550 S550 S500 FPV Quadcopter Multirotor",1,13.99,https://www.amazon.com/dp/B091KGR9Z6,
-OVONIC 3S LiPo Battery 3000mAh 11.1V 130C RC Battery with XT60 Connector,1,36.99,https://www.amazon.com/dp/B0DF2BL8H1,"130C is an excessive discharge rate for this design, however, dropping to a lower one also entails dropping its capacity from 3000mAh to 2200mAh for virtually the same price. It's simply not worth dropping, this battery is fine."
+"OVONIC 3S LiPo Battery 3000mAh 11.1V 130C RC Battery with XT60 Connector",1,36.99,https://www.amazon.com/dp/B0DF2BL8H1,"130C is an excessive discharge rate for this design, however, dropping to a lower one also entails dropping its capacity from 3000mAh to 2200mAh for virtually the same price. It's simply not worth dropping, this battery is fine."
 "B6AC Balance Battery Charger,B6 AC 80W Lipo Battery Balance Charger 6A Discharger, RC Car Battery Charger for NiMH/NiCD/LiPo/Li-ion LiFePO4",1,33.99,https://www.amazon.com/dp/B0F3BSLY3K,
-FLYSKY FS-i6X 10CH 2.4GHz RC Transmitter Controller with FS-iA6B Receiver Upgrade Cable for RC Boat Racing Drone (Mode_2),1,58.48,https://www.amazon.com/dp/B07Z8VCB45,
-Raspberry Pi 4 2GB Model B,1,55.00,https://www.canakit.com/raspberry-pi-4-2gb.html?cid=usd&src=raspberrypi,
-SanDisk 32GB Ultra® microSDHC 120MB/s A1 Class 10 UHS-I,1,22.59,https://www.amazon.com/dp/B08L5HMJVW,"Kept 32GB over 16GB: OS + PhotonVision takes ~4-5GB, along with logs/data/updates, it'll almost be full and that causes performance issues. The price difference is negligible (a couple dollars), went with more headroom."
+"FLYSKY FS-i6X 10CH 2.4GHz RC Transmitter Controller with FS-iA6B Receiver Upgrade Cable for RC Boat Racing Drone (Mode_2)",1,58.48,https://www.amazon.com/dp/B07Z8VCB45,
+"Raspberry Pi 4 2GB Model B",1,55.00,https://www.canakit.com/raspberry-pi-4-2gb.html?cid=usd&src=raspberrypi,
+"SanDisk 32GB Ultra® microSDHC 120MB/s A1 Class 10 UHS-I",1,22.59,https://www.amazon.com/dp/B08L5HMJVW,"Kept 32GB over 16GB: OS + PhotonVision takes ~4-5GB, along with logs/data/updates, it'll almost be full and that causes performance issues. The price difference is negligible (a couple dollars), went with more headroom."
 "Arducam for Raspberry Pi Camera Module 60fps Global Shutter 1.58MP IMX296 Camera with M12 Lens Equipped with 15-22pin FPC Flexible Cable for Raspberry Pi 5, 3, 4 A/B",1,64.99,https://www.amazon.com/dp/B0C3VGMTRH,
-Fermerry 28 AWG Stranded Wire Spool 5ft Each 6 Colors Flexible 28 Gauge Silicone Hook up Wire Kit Electrical Tinned Copper Wire,1,8.29,https://www.amazon.com/dp/B089CR4SDM,
+"Fermerry 28 AWG Stranded Wire Spool 5ft Each 6 Colors Flexible 28 Gauge Silicone Hook up Wire Kit Electrical Tinned Copper Wire",1,8.29,https://www.amazon.com/dp/B089CR4SDM,
 "18 Gauge Electrical Wire with Heat Shrink Tubing, 18 Awg Red and Black Tinned Copper Electric Stranded Wire 0.82mm² for Automotive House LED Lamp, Flexible PVC High Temp(10M/32.8FT)",1,11.99,https://www.amazon.com/dp/B0G4JWWVH7,
-3pcs 15 Pin 30cm 50cm 100cm FFC Ribbon Flexible Flat Cable for Camera Pi Camera Cable Long Extension Flexible Ribbon Cable,1,8.16,https://www.amazon.com/dp/B07DNYM8KC,3 pcs is simply because it offers 3 different sizes, I couldn't find a reasonably priced single cable
-3pcs 24V/12V to 5V DC-DC Step Down Module 5A USB Power Converter for Arduino Raspberry Pi DIY Projects,1,9.99,https://www.amazon.com/dp/B0FXWLB3XX,Same as the cables, can't find a reasonably priced 1 pc
-Total Price (USD):,,516.42,,
+"3pcs 15 Pin 30cm 50cm 100cm FFC Ribbon Flexible Flat Cable for Camera Pi Camera Cable Long Extension Flexible Ribbon Cable",1,8.16,https://www.amazon.com/dp/B07DNYM8KC,3 pcs is simply because it offers 3 different sizes, I couldn't find a reasonably priced single cable
+"3pcs 24V/12V to 5V DC-DC Step Down Module 5A USB Power Converter for Arduino Raspberry Pi DIY Projects",1,9.99,https://www.amazon.com/dp/B0FXWLB3XX,Same as the cables, can't find a reasonably priced 1 pc
+"Total Price (USD):",,516.42,,
