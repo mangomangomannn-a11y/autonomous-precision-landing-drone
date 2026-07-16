@@ -92,7 +92,7 @@ If I get the T8L, I can get an XR1 receiver weighing in at only 2 grams, and it 
 | **Total:** | | **$58.97** | |
 
 # 7/15/2026
-## Day 5: More advice, switching parts, calculating thrust, and designing the adaptor plate - 5 Hours
+## Day 5: More advice, switching parts, calculating thrust, and designing the adaptor plate - 4 Hours
 The same user who suggested I get the other motor also mentioned a cheaper, yet more modern and higher performance compass:
 
 | Item Name | Qty. | Price (total) USD | Item Link |
@@ -113,6 +113,15 @@ I went ahead and threw the specs into a trusted thrust calculator and the result
 <img width="1016" height="906" alt="image" src="https://github.com/user-attachments/assets/ca08c785-dab6-4cf2-804b-bc8b8c8496f1" />
 
 
+### The Adaptor Plate:
+I was initially planning on fully designing the adaptor in Onshape, but I thought about how I would design it and I just can't seem to decide how I'm gonna do it.
+
+I'm considering using the rectangular, thin center holes and making a part that has thin pieces that go through those holes and I screw them into eachother to secure and prevent it from being pulled up but I'm unsure of the reliability of that design aswell as just how secure it would really be...
+
+<img width="1297" height="798" alt="image" src="https://github.com/user-attachments/assets/bcd21e42-5107-4f96-a46e-5c215b821004" />
+
+
+This is a problem for tomorrow, it's getting late and I want to sleep.
 
 
 
