@@ -64,6 +64,10 @@ With all this is mind I've decided to compromise with swapping my current motors
 | :--- | :---: | :---: | :---: |
 | DYS X2812 900KV Brushless Motors for 7-8 Inch FPV Drone Frame (4PCS) | 1 | $55.98 | [Link](https://www.amazon.com/X2812-900KV-Brushless-Quadcopter-Multirotor/dp/B0G3F2GZSR) |
 
+It's true these motors are ideally rated for 7-9 inch props, with the 3s battery I plan on using, the 10 inch props are a better choice to generate sufficient thrust
+
+They also weigh ~52 grams more, which looks like alot, but is only ~4% (probably ~6% because of my extra electronic components) of the total weight of a 450mm drone, which isn't much.
+
 ### Radio debate:
 Another user suggested I get a Radiomaster pocket ELRS, however, this is quite over-budget with the main upside being the modern ELRS technology rather than the FS-i6X's older technology. 
 
@@ -88,7 +92,7 @@ If I get the T8L, I can get an XR1 receiver weighing in at only 2 grams, and it 
 | **Total:** | | **$58.97** | |
 
 # 7/15/2026
-## Day 5: More advice, switching parts, designing the adaptor plate - 5 Hours
+## Day 5: More advice, switching parts, calculating thrust, and designing the adaptor plate - 5 Hours
 The same user who suggested I get the other motor also mentioned a cheaper, yet more modern and higher performance compass:
 
 | Item Name | Qty. | Price (total) USD | Item Link |
@@ -97,7 +101,17 @@ The same user who suggested I get the other motor also mentioned a cheaper, yet 
 
 It's a compatible compass that functions the same as the previous DeeGoo compass, but costs $8 less, weighs ~10 grams less, regularly gets 30+ satelites, and has almost twice the range.
 
-Yeah, this was a no-brainer I'm glad he told me about this compass.
+Yeah, this was a no-brainer, I'm glad he told me about this compass.
+
+### Thrust Calculation:
+I went ahead and threw the specs into a trusted thrust calculator and the results came back looking pretty promising:
+
+- At full throttle, each motor produces about 671 grams of thrust, giving me 2.68 kg of total lift
+- Since the drone is gonna weigh from around 1.2-1.5 kg, I'll be getting roughly a 2:1 thrust to weight ratio (Meaning it can easily hover at half throttle and dedicate an ample amount of power to fight wind)
+- It'll only draw about 200 Watts at max power, far below my ESC's maximum (Unlikely anything will overheat/burn up)
+
+<img width="1016" height="906" alt="image" src="https://github.com/user-attachments/assets/ca08c785-dab6-4cf2-804b-bc8b8c8496f1" />
+
 
 
 
