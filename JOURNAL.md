@@ -3,6 +3,8 @@
 This is being written about 2 days late because I first had to learn the ropes of making my own github project and got more sidetracked on the drone itself rather than the neat setup of my github.
 I've had the intent of building a drone with something special in its design for about 4 months but never got started due to school sidetracking me. 
 
+(Future) This journal covers most of my decision making and why I made them, I had fun writing it all and hope you enjoy reading it.
+
 However, once summer started, I couldn't decide what I wanted to build. I considered generative drone frame design, UAV based autonomous flight, however, I ultimately decided on a autonomous precision landing drone for two main reasons: For one, as an aspiring astronautical engineer, it is a similar "control" type of technology used in the Mars 2020 Perseverance Rover to autonomously identify landing targets, as well as in SpaceX's Falcon 9 landings. But an arguably more notable factor was budget. I needed a project that I could feel more comfortable affording, in which this precision landing drone felt more interesting than others, and is far more affordable than the alternatives.
 
 ## Design (So far):
@@ -92,7 +94,7 @@ If I get the T8L, I can get an XR1 receiver weighing in at only 2 grams, and it 
 | **Total:** | | **$58.97** | |
 
 # 7/15/2026
-## Day 5: More advice, switching parts, calculating thrust, and designing the adaptor plate - 4 Hours
+## Day 5: More advice, switching parts, calculating thrust, considering adaptor plate design - 4 Hours
 The same user who suggested I get the other motor also mentioned a cheaper, yet more modern and higher performance compass:
 
 | Item Name | Qty. | Price (total) USD | Item Link |
@@ -123,7 +125,19 @@ I'm considering using the rectangular, thin center holes and making a part that 
 
 This is a problem for tomorrow, it's getting late and I want to sleep.
 
+# 7/16/26
+## Day 6 - Design - 5 Hours
 
+<img width="1313" height="787" alt="image" src="https://github.com/user-attachments/assets/8d25d98c-595f-4e84-a49e-7eebeec9e9af" />
+
+
+This is the day's work, I searched for public STEP files on GrabCad, among other websites (no luck on those): Some designs weren't exectly what I'm purchasing, but still work just fine as their shapes are consistent (Arducam, 1045 Props, Motors) and I had to design the battery (It's just a simple rectangular prism).
+
+I still need to design the adaptor plate and I even printed out a design of the base plate and carried it around with me all day (Not part of the 5 hours), thinking about how I would design this adaptor plate. A couple new ideas came to mind but they still haven't been finalized as I'm not 100% confident on the stacking orientation of the Pi and SpeedyBee.
+
+I could put the Pi under the SpeedyBee stack, or vice versa. I could put the Pi on the very top plate, seperate from the stack. I could move the battery to the top and put the Pi under the whole thing. All are possibilities, I just need to make a decision to finalize the design. 
+
+I'm afraid of putting the Pi on the top of bottom of the whole frame because it is an expensive component that would be far more likely to get broken if placed in either of those spots, but I'm also afraid of facing the difficulties involved with stacking the SpeedyBee and Pi in between the plates.
 
 
 
