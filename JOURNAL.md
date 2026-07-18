@@ -51,7 +51,7 @@ If you haven't already noticed, this is by no means a final design, before I add
 | Fermerry 28 AWG Stranded Wire Spool 5ft Each 6 Colors Flexible 28 Gauge Silicone Hook up Wire Kit Electrical Tinned Copper Wire | 1 | $8.29 | [Link](https://www.amazon.com/dp/B089CR4SDM) |
 | **Subtotal:** | | **$109.26** | |
 
-I have decided on these parts for my BOM as of now, they are most likely subject to change as I am currently seeking feedback from other communities such as Reddit and HackClub as well as researching forums regarding each part. 
+I have decided on these parts for my BOM as of now, they are most likely subject to change as I am currently seeking feedback from other communities such as Reddit, Discord and HackClub as well as researching forums regarding each part. 
 
 # 7/14/26
 ## Day 4: Advice and sanity checking my selected parts - 4 Hours
@@ -75,23 +75,28 @@ Another user suggested I get a Radiomaster pocket ELRS, however, this is quite o
 
 I looked into it and I personally think its an unnecessary upgrade if the primary benefit if only having ELRS for a much greater price tag
 
-Not all hope on ELRS was lost yet, as a different user suggested a T8L Radiomaster controller, which I considered for a good 15 minutes and overall assumed that the screen on the FS-i6x was a focal selling point along with its outer antenna providing a better signal.
+Not all hope on ELRS was lost yet, as a different user suggested I get a Radiomaster Pocket *Crush* (Essentially just the pocket but different solid color options for a lower price)
 
-<img width="547" height="267" alt="image" src="https://github.com/user-attachments/assets/bac951ea-79f7-42a0-a45b-57789f5bb3dd" />
+<img width="545" height="270" alt="image" src="https://github.com/user-attachments/assets/ba57296a-7110-4a0c-8976-58cdac09961a" />
 
-(T8L - $35 for controller, ~$60 for all parts | FS-i6x - ~$59 for controller + receiver)
+(Pocket Crush - $65 for controller, ~$90 for all parts | FS-i6x - ~$59 for controller + receiver)
+
+I referred back to the user and was informed that he never had an issue with signal and precisely the reason he suggests ELRS, but it didn't quite sway my decision entirely until I considered the weight of the receiver that the FS-i6x comes with. It would be another 15g on my already heavy drone which is operating on an already possibly underpowered 3s. If I get the Pocket Crush, I can get an XR1 receiver weighing in at only 2 grams.
+
+If that wasn't reason enough, I asked a discord server with many knowledgeable builders and all of them suggest the pocket and gave so many real issues with the FS-i6x, especially in this modern age.
+
+Just look at this:
+
+<img width="432" height="394" alt="image" src="https://github.com/user-attachments/assets/3d46d25c-670a-4b65-ae4b-b8773c9c53f6" />
 
 
-I referred back to the user and was informed that he never had an issue with signal and precisely the reason he suggests ELRS, but it didn't quite sway my decision entirely until I considered the weight of the receiver that the FS-i6x comes with. It would be another 15g on my already heavy drone which is operating on an already possibly underpowered 3s.
-
-If I get the T8L, I can get an XR1 receiver weighing in at only 2 grams, and it is essentially the same price total to get the T8L, receiver, and batteries, as just getting the FS-i6x. In the grand scheme of things, it's an upgrade that I should and will buy now.
 
 | Item Name | Qty. | Price (total) USD | Item Link |
 | :--- | :---: | :---: | :---: |
-| T8L Radio Controller (M2) | 1 | $34.99 | [Link](https://radiomasterrc.com/products/t8l-radio-controller?variant=47089026465984) |
+| Pocket Crush Radio Controller (M2) | 1 | $64.99 | [Link](https://radiomasterrc.com/products/pocket-crush-radio-controller) |
 | XR1 Nano Multi-Frequency ExpressLRS Receiver (2.4 GHz) | 1 | $11.99 | [Link](https://radiomasterrc.com/products/xr1-nano-multi-frequency-expresslrs-receiver?variant=46486320480448) |
 | 18650 3200mAh 3.7V Battery (2pcs) for TX16S / Boxer / TX12/ Pocket / MT12 Radios | 1 | $11.99 | [Link](https://radiomasterrc.com/products/18650-3200mah-3-7v-battery-2pcs-for-tx16s-boxer-tx12-mt12-radios) |
-| **Total:** | | **$58.97** | |
+| **Total:** | | **$88.97** | |
 
 # 7/15/2026
 ## Day 5: More advice, switching parts, calculating thrust, considering adaptor plate design - 4 Hours
