@@ -150,7 +150,18 @@ I'm afraid of putting the Pi on the top of bottom of the whole frame because it 
 
 To legally fly a drone over 250g in the US, I need to pass an online test (Easy) for a certification, pay $5 for a registration marker from the FAA, and most notably, pay $40 on a Remote ID to attach to the drone to be tracked.
 
+I found an offer from a trusted Alibaba seller that contains the Radiomaster Pocket ELRS, XR1 reciever (2.4GHz), and the 2 18650 batteries that I need all for only ~$100. It saves me around $20-30 from alternatively buying the Pocket Crush among the other parts from the official Radiomaster site, due to shipping.
+
+<img width="1669" height="576" alt="image" src="https://github.com/user-attachments/assets/0bf9f5ff-025b-4568-a437-a1aa1a579b9f" />
+
+
+I'm looking for other FC + 4 in 1 ESC Stacks such as the HolyBro Kakute H7 because I'm unable to add the SpeedyBee Stack to my cart on their official website.
+
+Despite my previous rant as to why I'm getting a 3s rather than a 4s, I'm planning on changing my mind for a multitude of reasons, the most notable being that my current motors are overkill and are unable to be downscaled to a smaller frame for alternative reuse. This entails buying a different set of motors that essentially require a 4s to provide enough propulsion for the 1.2kg-1.5kg frame, and this also requires 8045's as alternative motors are rated for 7-8 inch props.
+
+
+
 Brief: Using aliexpress to get cheaper components, cant buy the speedybee, looking for other FC stacks, getting a 4c battery 2 pack, getting 8045 props, getting small, less overkill motors.
 
 
-yes i will design the plate today, yes i will add that to the journal today, yes i will logs the hours for today, so far ive done 2 hrs, Yes a 130 c rated battery is a bit much and will try to downscale so im not paying too much, and with that I will wait for BOTH replies on reddit, editthe bom google sheet an dimport it here updated with a diff compass if works and a diff battery if works.
+yes i will design the plate today, yes i will add that to the journal today, get a 4s
