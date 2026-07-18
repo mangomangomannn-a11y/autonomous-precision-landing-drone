@@ -90,6 +90,7 @@ Just look at this:
 <img width="432" height="394" alt="image" src="https://github.com/user-attachments/assets/3d46d25c-670a-4b65-ae4b-b8773c9c53f6" />
 
 
+And so, with all that reasoning from Reddit and Discord, I've decided to swap to the Pocket Crush.
 
 | Item Name | Qty. | Price (total) USD | Item Link |
 | :--- | :---: | :---: | :---: |
