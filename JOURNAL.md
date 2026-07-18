@@ -145,6 +145,11 @@ I could put the Pi under the SpeedyBee stack, or vice versa. I could put the Pi 
 
 I'm afraid of putting the Pi on the top of bottom of the whole frame because it is an expensive component that would be far more likely to get broken if placed in either of those spots, but I'm also afraid of facing the difficulties involved with stacking the SpeedyBee and Pi in between the plates.
 
+# 7/17/26
+## Day 7 - Changing parts, making the drone legal:
+
+To legally fly a drone over 250g in the US, I need to pass an online test (Easy) for a certification, pay $5 for a registration marker from the FAA, and most notably, pay $40 on a Remote ID to attach to the drone to be tracked.
+
 
 
 yes i will design the plate today, yes i will add that to the journal today, yes i will logs the hours for today, so far ive done 2 hrs, Yes a 130 c rated battery is a bit much and will try to downscale so im not paying too much, and with that I will wait for BOTH replies on reddit, editthe bom google sheet an dimport it here updated with a diff compass if works and a diff battery if works.
