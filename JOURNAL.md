@@ -150,6 +150,7 @@ I'm afraid of putting the Pi on the top of bottom of the whole frame because it 
 
 To legally fly a drone over 250g in the US, I need to pass an online test (Easy) for a certification, pay $5 for a registration marker from the FAA, and most notably, pay $40 on a Remote ID to attach to the drone to be tracked.
 
+Brief: Using aliexpress to get cheaper components, cant buy the speedybee, looking for other FC stacks, getting a 4c battery 2 pack, getting 8045 props, getting small, less overkill motors.
 
 
 yes i will design the plate today, yes i will add that to the journal today, yes i will logs the hours for today, so far ive done 2 hrs, Yes a 130 c rated battery is a bit much and will try to downscale so im not paying too much, and with that I will wait for BOTH replies on reddit, editthe bom google sheet an dimport it here updated with a diff compass if works and a diff battery if works.
