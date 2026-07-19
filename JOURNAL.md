@@ -146,7 +146,7 @@ I could put the Pi under the SpeedyBee stack, or vice versa. I could put the Pi 
 I'm afraid of putting the Pi on the top of bottom of the whole frame because it is an expensive component that would be far more likely to get broken if placed in either of those spots, but I'm also afraid of facing the difficulties involved with stacking the SpeedyBee and Pi in between the plates.
 
 # 7/17/26
-## Day 7 - Changing parts, making the drone legal:
+## Day 7 - Changing parts, making the drone legal: - 4 Hours
 
 To legally fly a drone over 250g in the US, I need to pass an online test (Easy) for a certification, pay $5 for a registration marker from the FAA, and most notably, pay $40 on a Remote ID to attach to the drone to be tracked.
 
@@ -157,9 +157,23 @@ I found an offer from a trusted Alibaba seller that contains the Radiomaster Poc
 
 I'm looking for other FC + 4 in 1 ESC Stacks such as the HolyBro Kakute H7 because I'm unable to add the SpeedyBee Stack to my cart on their official website.
 
-Despite my previous rant as to why I'm getting a 3s rather than a 4s, I'm planning on changing my mind for a multitude of reasons, the most notable being that my current motors are overkill and are unable to be downscaled to a smaller frame for alternative reuse. This entails buying a different set of motors that essentially require a 4s to provide enough propulsion for the 1.2kg-1.5kg frame, and this also requires 8045's as alternative motors are rated for 7-8 inch props.
+Despite my previous rant as to why I'm getting a 3s rather than a 4s, I'm planning on changing my mind for a multitude of reasons, the most notable being that my current motors are overkill and are unable to be downscaled to a smaller frame for alternative reuse. This entails buying a different set of motors that essentially require a 4s battery to provide enough propulsion for the 1.2kg-1.5kg frame, and this also requires 8045's as alternative motors are rated for 7-8 inch props.
 
+I'm going to get these 4s batteries. I initially thought a downgrade from 3000mAh in my 3s to 2200mAh in a 4s was bad, but after doing the calculations:
 
+3000mAh × 11.1V = 33.3 Wh
+2200mAh × 14.8V = 32.5 Wh
+
+The Watts per Hour for both, are virtually the same, less than a 3% difference between the two.
+
+| Item Name | Qty. | Price (total) USD | Item Link |
+| :--- | :---: | :---: | :--- |
+| OVONIC 4S LiPo Battery 2200mAh 14.8V 130C RC Battery with XT60 Connector | 1 | $45.99 | [Link](https://www.amazon.com/OVONIC-Battery-2200mAh-14-8V-Connector/dp/B0DF23MSJY/ref=ast_sto_dp_puis) |
+
+Tomorrow I'm gonna decide on the motors and the props that go with them.
+
+# 7/18/26
+## Day 8 - Finalizing the part decisions & Adjusting the design.
 
 Brief: Using aliexpress to get cheaper components, cant buy the speedybee, looking for other FC stacks, getting a 4c battery 2 pack, getting 8045 props, getting small, less overkill motors.
 
