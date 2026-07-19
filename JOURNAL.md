@@ -164,7 +164,7 @@ I'm going to get these 4s batteries. I initially thought a downgrade from 3000mA
 3000mAh × 11.1V = 33.3 Wh
 2200mAh × 14.8V = 32.5 Wh
 
-The Watts per Hour for both, are virtually the same, less than a 3% difference between the two.
+The Watts per Hour for both, are virtually the same, less than a 3% difference between the two. On top of that, it's the same dimensions as the 3s.
 
 | Item Name | Qty. | Price (total) USD | Item Link |
 | :--- | :---: | :---: | :--- |
