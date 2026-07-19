@@ -150,12 +150,11 @@ I'm afraid of putting the Pi on the top of bottom of the whole frame because it 
 
 To legally fly a drone over 250g in the US, I need to pass an online test (Easy) for a certification, pay $5 for a registration marker from the FAA, and most notably, pay $40 on a Remote ID to attach to the drone to be tracked.
 
-I found an offer from a trusted Alibaba seller that contains the Radiomaster Pocket ELRS, XR1 reciever (2.4GHz), and the 2 18650 batteries that I need all for only ~$100. It saves me around $20-30 from alternatively buying the Pocket Crush among the other parts from the official Radiomaster site, due to shipping.
+I found an offer from a trusted Aliexpress seller that contains the Radiomaster Pocket ELRS, XR1 reciever (2.4GHz), and the 2 18650 batteries that I need all for only ~$100. It saves me around $20-30 from alternatively buying the Pocket Crush among the other parts from the official Radiomaster site, due to shipping.
 
 <img width="1669" height="576" alt="image" src="https://github.com/user-attachments/assets/0bf9f5ff-025b-4568-a437-a1aa1a579b9f" />
 
 
-I'm looking for other FC + 4 in 1 ESC Stacks such as the HolyBro Kakute H7 because I'm unable to add the SpeedyBee Stack to my cart on their official website.
 
 Despite my previous rant as to why I'm getting a 3s rather than a 4s, I'm planning on changing my mind for a multitude of reasons, the most notable being that my current motors are overkill and are unable to be downscaled to a smaller frame for alternative reuse. This entails buying a different set of motors that essentially require a 4s battery to provide enough propulsion for the 1.2kg-1.5kg frame, and this also requires 8045's as alternative motors are rated for 7-8 inch props.
 
@@ -173,9 +172,32 @@ The Watts per Hour for both, are virtually the same, less than a 3% difference b
 Tomorrow I'm gonna decide on the motors and the props that go with them.
 
 # 7/18/26
-## Day 8 - Finalizing the part decisions & Adjusting the design.
+## Day 8 - Finalizing the part decisions, Starting the Plate Adaptor, Adding to & Adjusting the CAD - 8 Hours
 
-Brief: Using aliexpress to get cheaper components, cant buy the speedybee, looking for other FC stacks, getting a 4c battery 2 pack, getting 8045 props, getting small, less overkill motors.
+I found reliable ReadyToSky 2212 Motors for a cheaper price than my previous DYS motors on amazon, aswell as good 8045 props to go with my motors:
+
+| Item Name | Qty | Price | Link |
+| :--- | :---: | :---: | :--- |
+| **2212 920KV Brushless Motors CW CCW for F330 F450 F550 S500 S550 X525 DJI Phantom Quadcopter(4PCS)** | 1 | $39.99 | https://www.amazon.com/dp/B075DD16LK |
+| **uxcell RC Propellers CW CCW 8045 8x4.5 Inch 2-Vane Fixed-Wing for Airplane Toy, Nylon Black 4 Pairs with Adapter Rings** | 1 | $17.39 | https://www.amazon.com/dp/B07PVGWH1N |
+
+I adjusted the positioning of the components on the CAD, where the battery was moved to the top, and the Pi was moved to under the frame for easier access. This Pi, however, needed an adaptor plate for it to attach to, which will also act as the other half of the adaptor plate for the SpeedyBee.
+
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/70dc805a-ba1d-4aa4-97c2-ce0cd9c52017" />
 
 
-yes i will design the plate today, yes i will add that to the journal today, get a 4s
+I designed this to include ventilation for the Pi, lined up screw hole dimensions, and extended tabs on the left and right side to reach into the holes in the frame, and give the SpeedyBee adaptor a surface to be secured onto. They will be secured to eachother and sandwiched between the bottom frame plate.
+
+Along with this, I also finished up the majority of the CAD by adding and assembling the remaining components such as the Compass, the Remote ID, the XR1 Receiver, and different Motors and Props.
+
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/838f34b0-338e-4e8f-9aa1-265e7cf77476" />
+
+
+This is almost the finalized design, I just need to finish up the SpeedyBee plate adaptor tomorrow and finish it in assembly.
+
+# 7/19/26
+## Day 9 - 
+
+
+
+yes i will design the plate today, yes i will add that to the journal today, yes i will update the bom
