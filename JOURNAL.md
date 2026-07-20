@@ -261,8 +261,3 @@ Along with this, I have finally finished the entire CAD design for my drone and 
 I will ask for a tad bit more confirmation on my parts from more experienced builders on Reddit and Discord and double-checking forums on the firmware support today and will start on the wiring diagram tomorrow.
 
 
-
-
-
-
-yes i will update the bom
