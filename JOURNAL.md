@@ -196,7 +196,14 @@ Along with this, I also finished up the majority of the CAD by adding and assemb
 This is almost the finalized design, I just need to finish up the SpeedyBee plate adaptor tomorrow and finish it in assembly.
 
 # 7/19/26
-## Day 9 - 
+## Day 9 - Finishing the Adaptor Plate Design, Finalizing the CAD and BOM: - 3 Hours
+
+I designed the top half of the adaptor plate, the part that holds the Stack, and I've decided on attaching both of them to eachother via nut and bolt.
+
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/b4299575-0809-4537-804d-5a515b57a362" />
+
+
+
 
 
 
