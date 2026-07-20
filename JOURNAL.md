@@ -196,15 +196,73 @@ Along with this, I also finished up the majority of the CAD by adding and assemb
 This is almost the finalized design, I just need to finish up the SpeedyBee plate adaptor tomorrow and finish it in assembly.
 
 # 7/19/26
-## Day 9 - Finishing the Adaptor Plate Design, Finalizing the CAD and BOM: - 3 Hours
+## Day 9 - Finishing the Adaptor Plate Design, Finalizing the CAD and BOM: - 4 Hours
 
-I designed the top half of the adaptor plate, the part that holds the Stack, and I've decided on attaching both of them to eachother via nut and bolt.
+I have finalized the BOM and updated it with these being the parts I will buy:
+
+# BOM (As of 7/19/26)
+### 1. Structure + Propulsion
+
+| Item Name | Qty. | Price (total) USD | Item Link |
+| :--- | :---: | :---: | :---: |
+| HAWK'S WORK F450 Drone Frame, 450mm Wheelbase Quadcopter Frame Kit with Landing Skid Gear (Pre-soldered) | 1 | $28.99 | [Link](https://www.amazon.com/dp/B09YQ4TM88) |
+| 2212 920KV Brushless Motors CW CCW for F330 F450 F550 S500 S550 X525 DJI Phantom Quadcopter(4PCS) | 1 | $39.99 | [Link](https://www.amazon.com/dp/B075DD16LK) |
+| uxcell RC Propellers CW CCW 8045 8x4.5 Inch 2-Vane Fixed-Wing for Airplane Toy, Nylon Black 4 Pairs with Adapter Rings | 1 | $17.39 | [Link](https://www.amazon.com/dp/B07PVGWH1N) |
+| ELEGOO PETG Filament | 1 | $0.00 | [Link](https://www.amazon.com/dp/B00D41Y3WWZ) |
+| **Subtotal:** | | **$86.37** | |
+
+### 2. Brain/Electronics
+
+| Item Name | Qty. | Price (total) USD | Item Link |
+| :--- | :---: | :---: | :---: |
+| SpeedyBee F405 V5 OX32 55A 30x30 Model Aircraft FC&ESC Stack (Deluxe) | 1 | $93.99 | [Link](https://www.speedybee.com/speedybee-f405-v5-55a-stack/) |
+| HGLRC M100 Pro GPS QMC5883L Compass, Upgraded 10th Generation Chip Compatible with FPV Fixed-Wing UAV | 1 | $20.99 | [Link](https://www.amazon.com/dp/B0DPH8FV7K) |
+| Radiomaster Pocket EdgeTX 2.4G Radio Controller FCC LBT (Mode2 Left-handed Throttle) CC2500 / ELRS Hall Gimbal Transmitter (ELRSFCC Ch 18650 XR1) | 1 | $100.59 | [Link](https://www.aliexpress.com/item/3256805789108375.html) |
+| Ruko R111S RC Aircraft GPS Tracker/Finder with Beeper, Light Weight RID Module with Buzzer for FAA Regulation, Spare Part for FPV Drone, FAA Compliant Remote ID Module for Drone, 3 Hours Battery Time | 1 | $39.99 | [Link](https://www.amazon.com/dp/B0DG53V8JG) |
+| **Subtotal:** | | **$255.56** | |
+
+### 3. Pi + Precision Landing
+
+| Item Name | Qty. | Price (total) USD | Item Link |
+| :--- | :---: | :---: | :---: |
+| Raspberry Pi 4 2GB Model B | 1 | $55.00 | [Link](https://www.canakit.com/raspberry-pi-4-2gb.html?cid=usd&src=raspberrypi) |
+| SanDisk 32GB Ultra® microSDHC 120MB/s A1 Class 10 UHS-I | 1 | $22.59 | [Link](https://www.amazon.com/dp/B08L5HMJVW) |
+| Arducam for Raspberry Pi Camera Module 60fps Global Shutter 1.58MP IMX296 Camera with M12 Lens Equipped with 15-22pin FPC Flexible Cable for Raspberry Pi 5, 3, 4 A/B | 1 | $64.99 | [Link](https://www.amazon.com/dp/B0C3VGMTRH) |
+| 3pcs 15 Pin 30cm 50cm 100cm FFC Ribbon Flexible Flat Cable for Camera Pi Camera Cable... | 1 | $8.16 | [Link](https://www.amazon.com/dp/B07DNYM8KC) |
+| **Subtotal:** | | **$150.74** | |
+
+### 4. Power/Wiring
+
+| Item Name | Qty. | Price (total) USD | Item Link |
+| :--- | :---: | :---: | :---: |
+| OVONIC 4S LiPo Battery 2200mAh 14.8V 130C RC Battery with XT60 Connector | 1 | $45.99 | [Link](https://www.amazon.com/dp/B0DF23MSJY) |
+| ISDT 608PD Lipo Battery Charger,DC 240W/10A,USB C PD 100W/5A Smart Charger for RC Batteries Balance Charger for Life/Lilon/LiPo/LiHV (1-6S),NiMH(1-16S),Pb (1-12S) Batteries | 1 | $32.00 | [Link](https://www.amazon.com/dp/B00D9TD3RXN) |
+| 3pcs 24V/12V to 5V DC-DC Step Down Module 5A USB Power Converter for Arduino Raspberry Pi... | 1 | $9.99 | [Link](https://www.amazon.com/dp/B0FXWLB3XX) |
+| 18 Gauge Electrical Wire with Heat Shrink Tubing, 18 Awg Red and Black Tinned Copper Electric Stranded Wire 0.82mm² for Automotive House LED Lamp, Flexible PVC High Temp(10M/32.8FT) | 1 | $11.99 | [Link](https://www.amazon.com/dp/B0G4JWWVH7) |
+| Fermerry 28 AWG Stranded Wire Spool 5ft Each 6 Colors Flexible 28 Gauge Silicone Hook up Wire Kit Electrical Tinned Copper Wire | 1 | $8.29 | [Link](https://www.amazon.com/dp/B089CR4SDM) |
+| **Subtotal:** | | **$108.26** | |
+
+**Total Price (USD): $600.93**
+
+I designed the top half of the adaptor plate, the part that holds the Stack:
 
 <img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/b4299575-0809-4537-804d-5a515b57a362" />
 
 
+On the holes on the left and right sides, I will use a nut and bolt to hold both parts of the plate together, ensuring they are as secure as possible and finally allowing the Pi and SpeedyBee stack to be securely attached to the frame.
+
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/51e49d07-c160-4489-b2e6-e179d75c040b" />
+
+
+Along with this, I have finally finished the entire CAD design for my drone and can begin on making the simple wiring diagram.
+
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/77efddc4-5a7a-459d-9ec3-f1f8cff7af9d" />
+
+I will ask for a tad bit more confirmation on my parts from more experienced builders on Reddit and Discord and double-checking forums on the firmware support today and will start on the wiring diagram tomorrow.
 
 
 
 
-yes i will design the plate today, yes i will add that to the journal today, yes i will update the bom
+
+
+yes i will update the bom
