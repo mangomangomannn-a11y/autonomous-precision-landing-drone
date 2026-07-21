@@ -260,4 +260,15 @@ Along with this, I have finally finished the entire CAD design for my drone and 
 
 I will ask for a tad bit more confirmation on my parts from more experienced builders on Reddit and Discord and double-checking forums on the firmware support today and will start on the wiring diagram tomorrow.
 
+# 7/20/26
+## Wiring Diagram: - 1 Hour
+
+It's my first time using draw.io, so it doesn't look incredibly professional and neat, but it's organized enough to where anybody could interpret it:
+
+<img width="682" height="733" alt="image" src="https://github.com/user-attachments/assets/1e50908c-f3c2-4864-be17-3133dfe81cda" />
+
+
+I'm glad I made this because I will be referencing it alot to ensure I'm soldering the right joints
+
+
 
